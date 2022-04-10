@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-<!-- <img src="https://drive.google.com/file/d/14fk3PxQsDfiTtfQoYIyNcEGXpgRAQxMz/view?usp=sharing" style="height:400px;width:750px"> -->
+<!-- <img src=""C:\Users\prati\OneDrive\Desktop\Git hub\pks2906\Untitled design (2).png"" style="height:400px;width:750px"> -->
 <img src="banner.png" style="height:500px;width:900px" align = "center"/>
 </div>
 
