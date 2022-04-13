@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-<!-- <img src="C:\Users\prati\Downloads\Untitled design (1).png" style="height:400px;width:750px"> -->
+<!-- <img src="https://www.canva.com/design/DAE9f65nLtU/YT1p_dGc4tXlZlOrcLHb4g/view?utm_content=DAE9f65nLtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="height:400px;width:750px"> -->
 <img src="banner.png" style="height:500px;width:900px" align = "center"/>
 </div>
 
