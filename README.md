@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" style="height:75px;width:75px"> Hello, Pratik this side <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" style="height:75px;width:75px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" style="height:75px;width:75px"> Hello, Pratik this side <img             src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" style="height:75px;width:75px"></h1>
 <h3 align="center">An aspiring Web Developer and a Tech Geek with a passion of learning new technologies</h3>
 
 - <img src="https://media.giphy.com/media/5tdug88O18Rvm2m0tt/giphy.gif" style="height:40px;width:40px" align = "center"> I’m currently learning **Web Development .**
