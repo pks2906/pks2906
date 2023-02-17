@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pratik Sinha</h1>
-<h3 align="center">A passionate frontend develover per and Google Crowdsource Influencer</h3>
+<h3 align="center">A passionate frontend developer and Google Crowdsource Influencer</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&usqp=CAU">
 
