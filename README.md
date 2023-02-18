@@ -112,7 +112,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pks2906&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=pks2906&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pks2906&show_icons=true&locale=en&layout=compact" alt="pks2906" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pks2906&" alt="pks2906" /></p>
 
 <br/>  
 
