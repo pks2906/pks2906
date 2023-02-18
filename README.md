@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
@@ -112,6 +113,8 @@
 
 
 ## Github Stats  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pks2906&theme=radical)
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=pks2906&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pks2906&show_icons=true&locale=en&layout=compact" alt="pks2906" /></p>
