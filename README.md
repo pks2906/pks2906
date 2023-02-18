@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">A passionate frontend developer and Google Crowdsource Influencer ✨</div> 
+### <div align="center">A passionate Frontend Developer and Google Crowdsource Influencer ✨</div> 
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&usqp=CAU">
   
