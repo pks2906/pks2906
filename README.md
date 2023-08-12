@@ -6,7 +6,7 @@
 
 ### <div align="center">A passionate Frontend Developer and Google Crowdsource Influencer ✨</div> 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pks2906&theme=midnight-purple)](https://git.io/streak-stats)
+
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&usqp=CAU">
   
@@ -117,6 +117,7 @@
 ## Github Stats  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pks2906&theme=radical)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pks2906&theme=midnight-purple)](https://git.io/streak-stats)
    
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pks2906&theme=moonlight)
