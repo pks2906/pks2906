@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">A passionate Frontend Developer and Google Crowdsource Influencer ✨</div> 
+### <div align="center">A passionate Machine Learning learner and Google Crowdsource Influencer ✨</div> 
 
 
 
