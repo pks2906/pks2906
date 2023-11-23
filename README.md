@@ -127,11 +127,6 @@
 
   
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wd3wd5ynk3eschjk63lppltjxm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pks2906&&style=flat-square" align="center" />
