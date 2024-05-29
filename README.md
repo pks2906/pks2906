@@ -117,8 +117,7 @@
 ## Github Stats  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pks2906&theme=radical)
- [![GitHub Streak](https://streak-stats.demolab.com/?user=pks2906)](https://git.io/streak-stats)
-   
+[![GitHub Streak](https://streak-stats.demolab.com?user=pks2906&theme=highcontrast)](https://git.io/streak-stats)
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pks2906&theme=moonlight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pks2906&theme=moonlight)
