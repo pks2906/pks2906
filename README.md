@@ -11,16 +11,16 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3XcOLfLcVgvZ7VLbcc8kkZMzK1mDo3EMRw&usqp=CA">
   
 
-- 🔭 I’m currently working as a Web Developer 
+- 🔭 Currently working as a Web Developer 
   
 
-- 🌱 I’m currently learning Machine Learning  
+- 🌱 Learning Machine Learning 
   
 
-- ❓ Ask me about anything related to Google Crowdsource  
+- ❓ Feel free to ask me anything about Google Crowdsource 
   
 
-- ⚡ Fun fact: Mai hmesha takatwar logo ka sath deta hu (BuriburiZaemon)
+- ⚡ Fun fact: I have a passion for traveling and exploring new places.
   
 
 <br/>  
