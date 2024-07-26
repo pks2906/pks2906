@@ -37,6 +37,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pks2906&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pks2906&theme=dark&hide_border=true)<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pks2906&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pks2906&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
