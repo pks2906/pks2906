@@ -14,7 +14,7 @@
 - 🔭 Currently working as a Web Developer 
   
 
-- 🌱 Learning Machine Learning 
+- 🌱 Learning: Machine Learning 
   
 
 - ❓ Feel free to ask me anything about Google Crowdsource 
