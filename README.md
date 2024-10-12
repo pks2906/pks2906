@@ -49,6 +49,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
+### Hacktoberfest Badges
+
+[![An image of @pks2906's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pks2906)](https://holopin.io/@pks2906)
+
+
 
 
 
