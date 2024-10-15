@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">A passionate Web Developer and Machine Learning Enthusiast✨</div> 
+### <div align="center">A passionate Web Developer ✨</div> 
 
 
 
