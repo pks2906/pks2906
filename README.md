@@ -38,7 +38,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pks2906&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 <img src="https://streak-stats.demolab.com?user=pks2906&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph" /> <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pks2906&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pks2906&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 
@@ -49,9 +48,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-### Hacktoberfest Badges
-
-[![An image of @pks2906's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pks2906)](https://holopin.io/@pks2906)
 
 
 
