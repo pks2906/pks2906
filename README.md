@@ -14,7 +14,7 @@
 - 🔭 Currently working as a Web Developer 
   
 
-- 🌱 Learning: Golang
+- 🌱 Learning: Java Spring Boot
   
 
 - ❓ Feel free to ask me anything about Google Crowdsource 
