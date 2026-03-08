@@ -120,15 +120,11 @@ I enjoy solving complex infrastructure challenges and building systems that enab
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pks2906&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=pks2906&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7&v=2"/>
 </p>
-
----
 
 # 🐍 Contribution Graph
 
