@@ -4,6 +4,10 @@
 
 ### DevOps Engineer | Cloud Infrastructure | Platform Engineering
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,linux,prometheus,git" />
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Kubernetes+%7C+Cloud+Infrastructure;Platform+Engineering;Distributed+Systems;Building+Reliable+Infrastructure" />
 
 ![](https://komarev.com/ghpvc/?username=pks2906&style=for-the-badge)
