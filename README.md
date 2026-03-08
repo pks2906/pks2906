@@ -108,22 +108,21 @@ I enjoy solving complex infrastructure challenges and building systems that enab
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pks2906&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pks2906&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=pks2906&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
-
-## 🏆 GitHub Achievements
+## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pks2906&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7&v=2"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pks2906&theme=tokyo-night&hide_border=true"/>
 </p>
 
 # 🐍 Contribution Graph
